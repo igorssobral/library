@@ -1,5 +1,5 @@
 # Sistema de Gerenciamento de Biblioteca
-Este é um projeto de exemplo de um sistema de gerenciamento de biblioteca desenvolvido em Java com Spring Boot. O projeto utiliza padrões de projeto para melhorar a organização e manutenção do código.
+Este é um projeto de desafio do bootcamp back-end java dio. Um sistema de gerenciamento de biblioteca desenvolvido em Java com Spring Boot . O projeto utiliza padrões de projeto para melhorar a organização e manutenção do código.
 
 ## Padrões de Projeto Utilizados
 
