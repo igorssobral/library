@@ -18,7 +18,7 @@ Estrutura do Projeto
           └── main
               ├── java
               │   └── com
-              │       └── example
+              │       └── project
               │           └── library
               │               ├── LibraryApplication.java
               │               ├── DatabaseConnection.java
